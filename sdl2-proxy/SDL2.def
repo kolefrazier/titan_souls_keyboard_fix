@@ -1,0 +1,8 @@
+LIBRARY sdl2 ;-proxy
+
+EXPORTS
+    ; Proxied
+    ; Only put proxied methods here. All forwards go in forwards.h, due to msvc linker quirks.
+    SDL_PollEvent
+    SDL_GetKeyboardState
+    SDL_ShowCursor

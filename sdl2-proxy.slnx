@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sdl2-proxy/sdl2-proxy.vcxproj" Id="1ab1055e-7f45-4b35-9405-5b46bc3c1103" />
+</Solution>

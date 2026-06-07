@@ -1,0 +1,63 @@
+SDL2.dll names imported by TITAN.exe
+
+SDL2.dll
+                71F860 Import Address Table
+                71F41C Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                   23 SDL_CreateMutex
+                   2D SDL_CreateThread
+                   2E SDL_CreateWindow
+                   35 SDL_Delay
+                   3B SDL_DestroyWindow
+                   4C SDL_FreeSurface
+                   4D SDL_FreeWAV
+                   4F SDL_GL_CreateContext
+                   50 SDL_GL_DeleteContext
+                   5C SDL_GL_SetSwapInterval
+                   5D SDL_GL_SwapWindow
+                   61 SDL_GameControllerAddMappingsFromRW
+                   62 SDL_GameControllerClose
+                   6B SDL_GameControllerGetJoystick
+                   70 SDL_GameControllerName
+                   72 SDL_GameControllerOpen
+                   82 SDL_GetCurrentDisplayMode
+                   89 SDL_GetDisplayMode
+                   8B SDL_GetError
+                   92 SDL_GetKeyboardState
+                   98 SDL_GetNumDisplayModes
+                   9C SDL_GetNumVideoDisplays
+                   BE SDL_GetTicks
+                   C7 SDL_GetWindowFlags
+                   D4 SDL_HapticClose
+                   DC SDL_HapticNumEffects
+                   DF SDL_HapticOpenFromJoystick
+                   E3 SDL_HapticQuery
+                   E4 SDL_HapticRumbleInit
+                   E5 SDL_HapticRumblePlay
+                   E6 SDL_HapticRumbleStop
+                   E7 SDL_HapticRumbleSupported
+                   FF SDL_Init
+                  103 SDL_IsGameController
+                  113 SDL_JoystickInstanceID
+                  121 SDL_LoadWAV_RW
+                  124 SDL_LockMutex
+                  141 SDL_NumJoysticks
+                  148 SDL_PollEvent
+                  149 SDL_PumpEvents
+                  14C SDL_Quit
+                  150 SDL_RWFromFile
+                  189 SDL_SetMainReady
+                  19F SDL_SetWindowFullscreen
+                  1A2 SDL_SetWindowIcon
+                  1A7 SDL_SetWindowSize
+                  1A9 SDL_ShowCursor
+                  1AE SDL_StartTextInput
+                  1AF SDL_StopTextInput
+                  1B9 SDL_UnlockMutex
+                  1C8 SDL_WarpMouseInWindow
+                  1E4 SDL_iconv_string
+                  1E6 SDL_isspace
+                  1EB SDL_malloc
+                  217 SDL_wcslen
